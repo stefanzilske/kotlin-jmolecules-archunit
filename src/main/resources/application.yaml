@@ -1,0 +1,9 @@
+camunda:
+  bpm:
+    admin-user:
+      id: admin
+      password: admin
+    filter:
+      create: All
+    history-level: full
+    id-generator: strong
